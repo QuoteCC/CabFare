@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cab Fare</string>
+    <string name="title">Calculate your fare:</string>
+    <string name="oTitle">Starting Point:</string>
+    <string name="dTitle">Ending Point:</string>
+    <string name="add">Building/Street</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="placeholder">ERROR</string>
+    <string name="bttnTxt">Calculate</string>
+    <string-array name="spinnerOpts">
+        <item>Smart Car ($2.50)</item>
+        <item>Yellow Cab ($2.75)</item>
+        <item>Mini Van ($3.00)</item>
+        <item>Town Car ($3.25)</item>
+    </string-array>
+    <string name="prmpt">Choose a Cab</string>
+    <string name="orig">Origin</string>
+    <string name="dest">Destination</string>
+    <string name="dist">Distance</string>
+    <string name="time">Time</string>
+    <string name="cost">Cost</string>
+</resources>
